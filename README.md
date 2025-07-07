@@ -8,3 +8,5 @@ This is a Monkey that types random keys of your keyboard, for guess how to write
 4. wait until says \'Founded! **missisipi**(the word)!\'
 5. feel satisfied
 6. share with friends
+
+![Thank you very much for try this proyect 😁👍🌟⭐](thanks!.png)
